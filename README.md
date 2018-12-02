@@ -1,9 +1,10 @@
 # Search-AV-by-CODE
 
 
-need request,python3
+requiement request,python3
 
+for linux or termux
 
-1.install python3
+1.sudo apt-get install python3
 
-2.pip install request
+2.sudo pip install request
