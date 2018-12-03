@@ -6,9 +6,9 @@ requiement request,python3
 linux or termux
 
 
-1.sudo apt-get install python3
+1.sudo apt-get install python3 / pkg install python
 
-2.sudo pip3 install request
+2.sudo pip3 install request / pip install request
 
 Windows
 
